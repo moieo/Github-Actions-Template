@@ -1,2 +1,2 @@
-# Github-Actions-Template
-This Github actions template
+# Github Actions 模板
+[English](English/README.md) 🍭
